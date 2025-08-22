@@ -27,3 +27,8 @@
 25. EasyList ( https://downloads.vivaldi.com/easylist/easylist-current.txt )
 26. AdBlock Warning Removal List ( https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt )
 27. ABP anti-circumvention list ( https://downloads.vivaldi.com/lists/abp/abp-filters-anti-cv-current.txt )
+28. Brave Firstparty specific filters ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-firstparty.txt )
+29. Brave Social ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-social.txt )
+30. Brave Specific ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-specific.txt )
+31. Brave Unbreak ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-unbreak.txt )
+32. Brave Firstparty Regional ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-firstparty-regional.txt )
