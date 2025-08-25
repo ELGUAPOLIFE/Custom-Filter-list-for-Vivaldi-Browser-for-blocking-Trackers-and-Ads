@@ -32,3 +32,4 @@
 30. Brave Specific ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-specific.txt )
 31. Brave Unbreak ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-unbreak.txt )
 32. Brave Firstparty Regional ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-firstparty-regional.txt )
+33. HaGeZi's NSFW DNS Blocklist (for blocking porn) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt )
