@@ -1,4 +1,4 @@
-# Custom-Filter-list-for-Vivaldi-Browser-for-blocking-Trackers-and-Ads
+# Custom Filter list for Vivaldi Browser for blocking Trackers and Ads
 
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
 2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
