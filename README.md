@@ -34,7 +34,7 @@
 32. Brave Firstparty Regional ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-firstparty-regional.txt )
 33. HaGeZi's NSFW DNS Blocklist (for blocking porn) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt )
 
-I personally toggled on these lists
+# I personally toggled on these lists
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
 2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
 3. AdGuard CNAME disguised mail_trackers list ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
