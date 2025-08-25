@@ -31,3 +31,4 @@
 29. Brave Specific ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-specific.txt )
 30. Brave Unbreak ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-unbreak.txt )
 31. Brave Firstparty Regional ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-firstparty-regional.txt )
+EasyList Cookie List and Fanboy's Social Blocking List are already included, there is no need to subscribe to them if you already have Fanboy's Annoyance List
