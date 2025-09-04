@@ -58,4 +58,4 @@
 21. HaGeZi's Pro++ DNS Blocklist (must) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt )
 22. My Own List (for my own custom rule) ( https://raw.githubusercontent.com/ELGUAPOLIFE/adblock-filters/refs/heads/main/adscript.txt )
 
-By using this filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
+Allow all list to use ABP Snippet rules. By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
