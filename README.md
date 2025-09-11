@@ -7,7 +7,7 @@
 5. OISD big (optional) ( https://big.oisd.nl/ )
 6. OISD NSFW (optional) ( https://nsfw.oisd.nl/ )
 7. Tracking JS Blocklist Vivaldi (optional) ( https://malware-filter.gitlab.io/malware-filter/tracking-filter-vivaldi.txt )
-8. My Own List (for my own custom rule) ( https://raw.githubusercontent.com/ELGUAPOLIFE/adblock-filters/refs/heads/main/adscript.txt )
+8. HaGeZi's NSFW DNS Blocklist (for blocking porn) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt )
 9. uBlock filters - Other Annoyances ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/annoyances-others.txt )
 10. uBlock filters - Privacy ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt )
 11. uBlock filters - Unbreak ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/unbreak.txt )
@@ -32,8 +32,6 @@
 30. Brave Specific ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-specific.txt )
 31. Brave Unbreak ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-unbreak.txt )
 32. Brave Firstparty Regional ( https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/brave-firstparty-regional.txt )
-33. HaGeZi's NSFW DNS Blocklist (for blocking porn) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt )
-34. Fuck Fuckadblock ( https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt )
 
 # I personally toggled on these lists
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
@@ -57,7 +55,5 @@
 19. uBlock Filters ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt )
 20. Indian List ( https://easylist-downloads.adblockplus.org/indianlist.txt )
 21. HaGeZi's Pro++ DNS Blocklist (must) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt )
-22. Fuck Fuckadblock ( https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt )
-23. My Own List (for my own custom rule) ( https://raw.githubusercontent.com/ELGUAPOLIFE/adblock-filters/refs/heads/main/adscript.txt )
 
 Allow all list to use ABP Snippet rules. By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
