@@ -20,7 +20,7 @@
     EasyList Cookie List and Fanboy's Social Blocking List are already included, there is no need to subscribe to them if you already have Fanboy's Annoyance List
 19. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
 20. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
-21. Indian List ( https://easylist-downloads.adblockplus.org/indianlist.txt )
+21. Fanboy Ultimate List = Easylist + EasyPrivacy + Fanboy's Annoyance list + Easylist Cookie List + Fanboy's Social Blocking List ( https://fanboy.co.nz/r/fanboy-ultimate.txt )
 22. HaGeZi's Pro++ DNS Blocklist (must) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt )
 23. English list Peter Lowe's ( https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext )
 24. AdGuard Base Filter ( https://filters.adtidy.org/extension/chromium/filters/2.txt )
