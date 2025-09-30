@@ -2,7 +2,7 @@
 
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
 2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
-3. AdGuard CNAME disguised mail_trackers list ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
+3. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 4. Fanboy's Social Blocking List ( https://easylist.to/easylist/fanboy-social.txt )
 5. OISD big (optional) ( https://big.oisd.nl/ )
 6. OISD NSFW (optional) ( https://nsfw.oisd.nl/ )
@@ -36,7 +36,7 @@
 # I personally toggled on these lists
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
 2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
-3. AdGuard CNAME disguised mail_trackers list ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
+3. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 4. Fanboy's Annoyance list ( https://secure.fanboy.co.nz/fanboy-annoyance.txt )
 5. AdGuard Base Filter ( https://filters.adtidy.org/extension/chromium/filters/2.txt )
 6. EasyList ( https://downloads.vivaldi.com/easylist/easylist-current.txt )
