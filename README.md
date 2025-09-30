@@ -45,8 +45,8 @@
 
 4. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 5. AdGuard Base Filter ( https://filters.adtidy.org/extension/chromium/filters/2.txt )
-6. HaGeZi's Pro++ DNS Blocklist (must) ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt )
-7. Fanboy Ultimate List ( Easylist + EasyPrivacy + Fanboy's Annoyance list + Easylist Cookie List + Fanboy's Social Blocking List ) ( https://fanboy.co.nz/r/fanboy-ultimate.txt )
+6. HaGeZi's Pro++ DNS Blocklist ( https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt )
+7. Fanboy Ultimate List = Easylist + EasyPrivacy + Fanboy's Annoyance list + Easylist Cookie List + Fanboy's Social Blocking List ( https://fanboy.co.nz/r/fanboy-ultimate.txt )
 
 ⭐ uBlock default lists ⭐
 
