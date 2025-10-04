@@ -15,8 +15,7 @@ Allow every list to use ABP Snippet rules. Don't use any unnecessary extra filte
 ⭐ AdGuard Filter lists ⭐ ( Must include )
 
 These 3 links are taken from AdGuard's official site ( https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters ) .
-Make sure use these exact 3 links, not other mirrors of a same filter.
-N.B: Don't use any of HaGeZi's lists with these 3 lists.
+Make sure use these exact 3 links, not other mirrors of a same filter. Don't use any of HaGeZi's lists with these 3 lists.
 
 5. AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt )
    EasyList + AdGuard English filter = AdGuard Base Filter.
