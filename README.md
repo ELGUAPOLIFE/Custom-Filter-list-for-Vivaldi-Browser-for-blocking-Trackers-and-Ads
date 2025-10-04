@@ -37,7 +37,7 @@ Make sure use these exact 3 links, not other mirrors of a same filter. Don't use
 14. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
 15. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
 
-By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
+Though it is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
 
 # Filter Library
 
