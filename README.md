@@ -2,7 +2,7 @@
 
 # Filter combination for Vivaldi's Built-in Adblocker
 
-Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
+Allow all list to use ABP Snippet rules. Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
 
 ⭐ Built-in lists ⭐ ( Compliment for other filters )
 
@@ -38,7 +38,7 @@ N.B: Don't use any of HaGeZi's lists with these 3 lists.
 15. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
 16. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
 
-Allow all list to use ABP Snippet rules. By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
+By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
 
 # Filters Library
 
