@@ -2,7 +2,7 @@
 
 # Filter combination for Vivaldi's Built-in Adblocker
 
-Allow all list to use ABP Snippet rules. Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
+Allow every list to use ABP Snippet rules. Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
 
 ⭐ Built-in lists ⭐ ( Compliment for other filters )
 
