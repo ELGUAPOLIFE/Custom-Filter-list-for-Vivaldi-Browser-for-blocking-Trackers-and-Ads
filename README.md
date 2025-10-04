@@ -39,7 +39,7 @@ Make sure use these exact 3 links, not other mirrors of a same filter. Don't use
 
 By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
 
-# Filters Library
+# Filter Library
 
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
 2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
