@@ -19,23 +19,23 @@ Make sure use these exact 3 links, not other mirrors of a same filter. Don't use
 
 5. AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt )
    EasyList + AdGuard English filter = AdGuard Base Filter.
-7. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
-8. AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt )
+6. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
+7. AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt )
    AdGuard Annoyances filter contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
 
 ⭐ uBlock Default lists ⭐ (Good to include)
 
-9. uBlock filters - Other Annoyances ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/annoyances-others.txt )
-10. uBlock filters - Unbreak ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/unbreak.txt )
-11. uBlock Filters - Quick fixes ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/quick-fixes.txt )
-12. ublock Filters - Badware risks ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/badware.txt )
-13. uBlock Filters ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt )
-14. uBlock filters - Privacy ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt )
+8. uBlock filters - Other Annoyances ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/annoyances-others.txt )
+9. uBlock filters - Unbreak ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/unbreak.txt )
+10. uBlock Filters - Quick fixes ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/quick-fixes.txt )
+11. ublock Filters - Badware risks ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/badware.txt )
+12. uBlock Filters ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt )
+13. uBlock filters - Privacy ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt )
 
 ⭐ Malware protection lists ⭐ (Optional)
 
-15. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
-16. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
+14. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
+15. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
 
 By using these filters I was able to block 99% Ads and Tracker on https://adblock.turtlecute.org/ and got 100 out of 100 on https://adblock-tester.com/. Though It is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
 
