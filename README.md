@@ -18,7 +18,7 @@ These 3 links are taken from AdGuard's official site ( https://adguard.com/kb/ge
 Make sure use these exact 3 links, not other mirrors of a same filter. Don't use any of HaGeZi's lists with these 3 lists.
 
 5. AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt )
-EasyList + AdGuard English filter = AdGuard Base Filter.
+   AdGuard English filter +EasyList = AdGuard Base Filter.
    I don't know why but AdGuard Base Filter blocks FB sidebar ads only when I put it into the Tracker Blocking Sources.
 7. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 8. AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt )
